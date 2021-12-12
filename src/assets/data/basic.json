@@ -1,0 +1,97 @@
+{
+	"basketType": [
+		{
+			"nome": "Cesta em Papel (Kraft)",
+			"descricao": "Uma breve descricao a respeito da cesta.",
+			"imagens": [
+				"assets/groups/7/vinho/1.jpg"
+			]
+		},
+		{
+			"nome": "Cesta em MDF",
+			"descricao": "Uma breve descricao a respeito da cesta.",
+			"imagens": [
+				"assets/groups/7/vinho/1.jpg"
+			]
+		},
+		{
+			"nome": "Cesta em Palha",
+			"descricao": "Uma breve descricao a respeito da cesta.",
+			"imagens": [
+				"assets/groups/7/vinho/1.jpg"
+			]
+		}
+	],
+	"colors": [
+		[
+			"blue",
+			"darkblue",
+			"Tons de azul"
+		],
+		[
+			"yellow",
+			"goldenrod",
+			"Tons de amarelo"
+		],
+		[
+			"orange",
+			"darkorange",
+			"Tons de laranja"
+		],
+		[
+			"lime",
+			"green",
+			"Tons de verde"
+		],
+		[
+			"red",
+			"crimson",
+			"Tons de vermelho"
+		],
+		[
+			"pink",
+			"deeppink",
+			"Tons de rosa"
+		]
+	],
+	"amountItens" : [
+		{
+			"quantidade" : 15,
+			"grupos": {
+				"1" : 4,
+				"2" : 3,
+				"3" : 2,
+				"4" : 1,
+				"5" : 1,
+				"6" : 1,
+				"7" : 1
+			},
+			"valor" : "79,90",
+			"valor1" : "79,90",
+			"valor2" : "89,90",
+			"descricao" : "Uma breve descricao a respeito dos itens, valores e etc.",
+			"imagens": [
+				"assets/groups/1/bis/1.jpg"
+			]
+		},
+		{
+			"quantidade" : 20,
+			"grupos": {
+				"1" : 4,
+				"2" : 3,
+				"3" : 2,
+				"4" : 2,
+				"5" : 2,
+				"6" : 2,
+				"7" : 2
+			},
+			"valor" : "89,90",
+			"valor1" : "89,90",
+			"valor2" : "99,90",
+			"descricao" : "Uma breve descricao a respeito dos itens, valores e etc.",
+			"imagens": [
+				"assets/groups/1/bis/1.jpg"
+			]
+		}
+	]
+}

@@ -1,0 +1,147 @@
+{
+	"contact": {
+		"email" : "saramendoncaa@gmail.com",
+		"telefone": "5561984934430",
+		"instagram": "https://instagram.com/amoremcestasdf",
+		"Usuarioinstagram": "@AmorEmCestas"
+	},
+	"shipping": [
+		{
+			"nome": "Águas Claras",
+			"valor": 20
+		},
+		{
+			"nome": "Asa Norte",
+			"valor": 30
+		},
+		{
+			"nome": "Asa Sul",
+			"valor": 25
+		},
+		{
+			"nome": "Candangolândia",
+			"valor": 20
+		},
+		{
+			"nome": "Ceilândia",
+			"valor": 25
+		},
+		{
+			"nome": "Cruzeiro",
+			"valor": 25
+		},
+		{
+			"nome": "Estrutural",
+			"valor": 25
+		},
+		{
+			"nome": "Gama",
+			"valor": 25
+		},
+		{
+			"nome": "Guará",
+			"valor": 20
+		},
+		{
+			"nome": "Itapoã",
+			"valor": 35
+		},
+		{
+			"nome": "Jardim Botânico",
+			"valor": 30
+		},
+		{
+			"nome": "Lago Norte",
+			"valor": 30
+		},
+		{
+			"nome": "Lago Sul",
+			"valor": 30
+		},
+		{
+			"nome": "Noroeste",
+			"valor": 25
+		},
+		{
+			"nome": "Núcleo Bandeirante",
+			"valor": 20
+		},
+		{
+			"nome": "Octogonal",
+			"valor": 25
+		},
+		{
+			"nome": "Paranoá",
+			"valor": 35
+		},
+		{
+			"nome": "Park Way",
+			"valor": 20
+		},
+		{
+			"nome": "Planaltina",
+			"valor": 35
+		},
+		{
+			"nome": "Ponte Alta",
+			"valor": 10
+		},
+		{
+			"nome": "Recanto das Emas",
+			"valor": 10
+		},		
+		{
+			"nome": "Riacho Fundo 1",
+			"valor": 10
+		},
+		{
+			"nome": "Riacho Fundo 2",
+			"valor": 10
+		},
+		{
+			"nome": "Rodoviária do Plano Piloto*",
+			"valor": 10
+		},
+		{
+			"nome": "Samambaia",
+			"valor": 15
+		},
+		{
+			"nome": "Santa Maria",
+			"valor": 25
+		},
+		{
+			"nome": "São Sebastião",
+			"valor": 35
+		},
+		{
+			"nome": "SIA",
+			"valor": 25
+		},
+		{
+			"nome": "Sobradinho",
+			"valor": 35
+		},
+		{
+			"nome": "Sudoeste",
+			"valor": 25
+		},
+		{
+			"nome": "Taguatinga",
+			"valor": 20
+		},
+		{
+			"nome": "Varjão",
+			"valor": 35
+		},
+		{
+			"nome": "Vicente Pires",
+			"valor": 20
+		}
+	],
+	"payment": [
+		"PIX",
+		"Boleto Bancário",
+		"Transferência Bancária"
+	]
+}

@@ -1,0 +1,240 @@
+{
+	"1": [
+		{
+			"nome": "Kit Kat",
+			"descricao": "1 Unidade",
+			"imagens": [
+				"assets/groups/1/kitkat/1.jpg"
+			]
+		},
+		{
+			"nome": "Sonho de Valsa",
+			"descricao": "2 unidades",
+			"imagens": [
+				"assets/groups/1/sonhoDeValsa/1.jpg"
+			]
+		},
+		{
+			"nome": "Ouro Branco",
+			"descricao": "2 unidades",
+			"imagens": [
+				"assets/groups/1/ouroBranco/1.jpg"
+			]
+		},
+		{
+			"nome": "Bis",
+			"descricao": "8 unidades",
+			"imagens": [
+				"assets/groups/1/bis/1.jpg"
+			]
+		},
+		{
+			"nome": "Biscoitos Bauducco sem recheio",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/1/biscoitoBauducco/1.jpg"
+			]
+		},
+		{
+			"nome": "Biscoito clube social",
+			"descricao": "2 unidades",
+			"imagens": [
+				"assets/groups/1/biscoitoClubeSocial/1.jpg"
+			]
+		},
+		{
+			"nome": "Biscoito passa tempo",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/1/biscoitoPassaTempo/1.jpg"
+			]
+		},
+		{
+			"nome": "Pão de mel",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/1/paoDeMel/1.jpg"
+			]
+		},
+		{
+			"nome": "Bolinhos",
+			"descricao": "2 unidades",
+			"imagens": [
+				"assets/groups/1/bolinhos/1.jpg"
+			]
+		},
+		{
+			"nome": "Amendupã",
+			"descricao": "1 unidades",
+			"imagens": [
+				"assets/groups/1/amendupa/1.jpg"
+			]
+		},
+		{
+			"nome": "Polenguinho",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/1/polenguinho/1.jpg"
+			]
+		}
+	],
+	"2": [
+		{
+			"nome": "Biscoito Oreo",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/2/biscoitoOreo/1.jpg"
+			]
+		},
+		{
+			"nome": "Biscoito Recheado",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/2/biscoitoRecheado/1.jpg"
+			]
+		},
+		{
+			"nome": "Refrigerante em lata",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/2/refrigeranteLata/1.jpg"
+			]
+		},
+		{
+			"nome": "Suco de caixinha",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/2/sucoCaixinha/1.jpg"
+			]
+		}
+	],
+	"3": [
+		{
+			"nome": "Barra de Chocolate",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/3/barraChocolate/1.jpg"
+			]
+		},
+		{
+			"nome": "Sequilhos",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/3/sequilhos/1.jpg"
+			]
+		},
+		{
+			"nome": "Amendoim",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/3/amendoim/1.jpg"
+			]
+		},
+		{
+			"nome": "Castanhas",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/3/castanhas/1.jpg"
+			]
+		}
+	],
+	"4": [
+		{
+			"nome": "Café solúvel",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/4/cafeSoluvel/1.jpg"
+			]
+		},
+		{
+			"nome": "Cerveja",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/4/cerveja/1.jpg"
+			]
+		}
+	],
+	"5": [
+		{
+			"nome": "M&M’s",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/5/mms/1.jpg"
+			]
+		},
+		{
+			"nome": "Porta retrato",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/5/portaRetrato/1.jpg"
+			]
+		},
+		{
+			"nome": "Caneca",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/5/caneca/1.jpg"
+			]
+		},
+		{
+			"nome": "Urso",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/5/urso/1.jpg"
+			]
+		},
+		{
+			"nome": "Almofada",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/5/almofada/1.jpg"
+			]
+		},
+		{
+			"nome": "Batata Ruffles",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/5/batataRuffles/1.jpg"
+			]
+		}
+	],
+	"6": [
+		{
+			"nome": "Geléia",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/6/geleia/1.jpg"
+			]
+		},
+		{
+			"nome": "Nutella",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/6/nutella/1.jpg"
+			]
+		},
+		{
+			"nome": "Ferrero Rocher",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/6/ferreroRocher/1.jpg"
+			]
+		}
+	],
+	"7": [
+		{
+			"nome": "Espumante",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/7/espumante/1.jpg"
+			]
+		},
+		{
+			"nome": "Vinho",
+			"descricao": "1 unidade",
+			"imagens": [
+				"assets/groups/7/vinho/1.jpg"
+			]
+		}
+	]
+}
